@@ -1,5 +1,6 @@
 # LUXE TECH — interactive electronics storefront
-
+# Website LINK = 
+lux-techh.netlify.app
 A responsive Vite + vanilla JavaScript demo storefront with a product detail viewer, drag-based image-view switching, zoom controls, finish selection, and a local demo cart.
 
 ## Run locally
